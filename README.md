@@ -7,4 +7,5 @@ Initially I was planning on doing both Python and Rust, but soon realised that w
 ---
 
 ### Rust Solutions:
+- [Two Sum](rust-lc-solutions/src/bin/1-two-sum.rs)
 
